@@ -1,7 +1,3 @@
-# playwright-api-testing
-
-API Testing with Playwright and OpenAPI-Generated Types
-
 # API Testing with Playwright and OpenAPI-Generated Types
 
 This article demonstrates how to create a robust API testing framework using PlayWright and OpenAPI documentation. Examples are based on the [Restful-Booker Platform](https://automationintesting.online/), a purpose-built API testing playground. The Restful-Booker Platform provides a realistic environment for learning and practicing API testing techniques, featuring authentication, room management, and other common API operations.
